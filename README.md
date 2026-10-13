@@ -87,8 +87,6 @@
 
 ## 📚 Surveys & Overviews
 
-
-
 - **A Definition and Roadmap for World Models**
   - Publication: arXiv 2026
   - Highlights: Provides a scientific definition of world models, discussions of their key technical aspects, and a staged roadmap for developing effective world models.
@@ -183,7 +181,6 @@
 
 ## 🧪 Tutorials & Starter Resources
 
-
 - **Nano World Models: A Minimalist Implementation of Future Video Prediction**
   - Publication: arXiv 2026
   - Highlights: A minimalist implementation of future video prediction with unified interface.
@@ -203,8 +200,6 @@
 
 ## 📄 Foundation Papers & Technical Reports
 
-
-
 - **Video generation models as world simulators** (OpenAI Sora, 2024)
   - [Technical Report](https://openai.com/research/video-generation-models-as-world-simulators)
   - Highlights: Demonstrates that large-scale video generation can act as a world simulator.
@@ -223,7 +218,25 @@
 
 ### 4.1 Language-Based World Models
 
+- 🆕 **Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL**
+  - Publication: arXiv 2026
+  - Highlights: Masked diffusion language models serve as strong and steerable text-based world models for agentic reinforcement learning.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2607.16204)
 
+- 🆕 **World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis**
+  - Publication: arXiv 2026
+  - Highlights: Unifies world modeling, language reasoning, and action synthesis into a single World-Language-Action framework.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.05979)
+
+- 🆕 **Policy and World Modeling Co-Training for Language Agents**
+  - Publication: arXiv 2026
+  - Highlights: Adds auxiliary world model supervision to policy during RL without changing inference.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.02388)
+
+- 🆕 **Grounded World Model: Latent Planning with Language Goals**
+  - Publication: arXiv 2026
+  - Highlights: Latent planning with language goals for grounded world modeling.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2604.11751)
 
 - **Qwen-AgentWorld: Language World Models for General Agents**
   - Publication: arXiv 2026
@@ -277,6 +290,45 @@
 
 ### 4.2 Visual / Video World Models
 
+- 🆕 **Prisma-World: Camera-Controllable Multi-Agent Video World Model**
+  - Publication: arXiv 2026
+  - Highlights: Camera-controllable multi-agent video world model.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.09507)
+
+- 🆕 **Learning to Retrieve: Internalizing Memory Retrieval for Video World Models**
+  - Publication: arXiv 2026
+  - Highlights: Internalizes memory retrieval for video world models, enabling explorable, 3D-consistent scene video generation conditioned on camera trajectories.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.11444)
+
+- 🆕 **DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**
+  - Publication: arXiv 2026
+  - Highlights: Action-conditioned video world model for robotic manipulation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.13489)
+
+- 🆕 **τ₀-WM: A Unified Video-Action World Model for Robotic Manipulation**
+  - Publication: arXiv 2026
+  - Highlights: Unified video-action world model for robotic manipulation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.01027)
+
+- 🆕 **GLIMPSE: Global–Local Indexing with Multi-Precision Spectral Encoding for Explorable Video World Models**
+  - Publication: arXiv 2026
+  - Highlights: Explorable video world models with global-local indexing and multi-precision spectral encoding.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.13706)
+
+- 🆕 **LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models**
+  - Publication: arXiv 2026
+  - Highlights: Simulates out-of-sight dynamics, allowing the world outside the camera view to continue evolving.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2603.07145)
+
+- 🆕 **Compression and Retrieval: Implicit Memory Retrieval for Video World Models**
+  - Publication: arXiv 2026
+  - Highlights: Implicit memory retrieval for video world models via compression and retrieval.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.23105)
+
+- 🆕 **Olaf-World: Orienting Latent Actions for Video World Modeling**
+  - Publication: arXiv 2026
+  - Highlights: Orients latent actions for video world modeling.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2602.10104)
 
 - **Advancing Open-source World Models (LingBot-World)**
   - Publication: arXiv 2026
@@ -380,9 +432,30 @@
 
 ### 4.3 3D & 4D World Models (General Purpose)
 
-*This section contains general-purpose 3D/4D generation and modeling paradigms. Application-specific models have been moved to Section 8.*
+- 🆕 **Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**
+  - Publication: arXiv 2026
+  - Highlights: A Unified 4D World Model with asynchronous denoising for high-fidelity 4D world modeling.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2604.26694)
 
+- 🆕 **Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding (DeepEarth)**
+  - Publication: arXiv 2026
+  - Highlights: Self-supervised multi-modal world model with Earth4D, a planetary-scale 4D space-time positional encoder.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2603.07039)
 
+- 🆕 **RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation**
+  - Publication: arXiv 2026
+  - Highlights: 4D embodied world models for robotic manipulation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2607.06559)
+
+- 🆕 **3D4D: An Interactive Editable 4D World Model via 3D Video Generation**
+  - Publication: AAAI 2026
+  - Highlights: Interactive editable 4D world model integrating WebGL and Supersplat rendering, with VLM-guided foveated rendering strategy enabling 60fps real-time interaction.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2511.08536)
+
+- 🆕 **Embody4D: A Generalist Data Engine for Embodied 4D World Modeling**
+  - Publication: arXiv 2026
+  - Highlights: A generalist 4D world model for embodied AI.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2605.01799)
 
 - **3D-Belief: Embodied Belief Inference via Generative 3D World Modeling**
   - Publication: arXiv 2026
@@ -476,7 +549,25 @@
 
 ### 4.4 Latent Space World Models
 
+- 🆕 **Grounded World Model: Latent Planning with Language Goals**
+  - Publication: arXiv 2026
+  - Highlights: Latent planning with language goals for grounded world modeling.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2604.11751)
 
+- 🆕 **LeWAM: End-to-End World and Action Modeling with JEPAs**
+  - Publication: arXiv 2026
+  - Highlights: End-to-end world and action modeling with joint-embedding predictive architectures.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.12818)
+
+- 🆕 **Predictive but Not Plannable: RC-aux for Latent World Models**
+  - Publication: arXiv 2026
+  - Highlights: Addresses the issue that a latent world model may be predictive but not plannable, inducing a latent space poorly aligned with planning.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2605.07278)
+
+- 🆕 **ω-EVA: Envision, Verify, and Act with Latent Interactive World Models**
+  - Publication: arXiv 2026
+  - Highlights: Latent interactive world models that envision, verify, and act.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.09457)
 
 - **Orca: The World is in Your Mind** (see also Visual section)
   - Highlights: Unified latent space from multimodal signals via unconscious and conscious learning.
@@ -578,7 +669,20 @@
 
 ### 4.5 Object-Centric World Models
 
+- 🆕 **Better Slots, Better Worlds: Representation Quality & Robustness in Object-Centric World Models**
+  - Publication: arXiv 2026
+  - Highlights: Investigates representation quality and robustness in object-centric world models.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.12078)
 
+- 🆕 **World-as-Graph: Relational World Modeling Through Latent Space Graphs**
+  - Publication: arXiv 2026
+  - Highlights: Proposes World-As-Graph (WAG), a graph-based object-centric world model introducing relational inductive bias into JEPA-style predictive representation learning.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2609.38927)
+
+- 🆕 **Learning Action-Conditional and Object-Centric Gaussian Splatting World Models for Rigid Objects**
+  - Publication: arXiv 2026
+  - Highlights: Action-conditional and object-centric Gaussian splatting world models for rigid objects.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.01950)
 
 - **Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling**
   - Publication: ICLR 2026 Oral
@@ -622,8 +726,6 @@
 
 ### 4.6 Symbolic & Neuro-Symbolic World Models
 
-
-
 - **OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration**
   - Publication: arXiv 2026
   - Highlights: Programmatic world modeling with ontology-error-prioritized interactive exploration.
@@ -665,8 +767,6 @@
   - Paper Link: [arXiv](https://arxiv.org/abs/2301.06294)
 
 ### 4.7 General Foundation World Models
-
-
 
 - **Cosmos 3: Omnimodal World Models for Physical AI**
   - Publication: arXiv 2026
@@ -763,7 +863,35 @@
 
 ### 5.1 General Interactive Frameworks
 
+- 🆕 **ActWorld: From Explorable to Interactive World Model via Action-Aware Memory**
+  - Publication: arXiv 2026
+  - Highlights: Extends navigation-centric generators to support object interactions via action-aware memory.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.17730)
 
+- 🆕 **GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**
+  - Publication: arXiv 2026
+  - Highlights: A generalizable interactive world model for robotic manipulation via visual actions.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.06332)
+
+- 🆕 **Oneira: From Open-Ended Generation to Open-World Interaction in Video World Models**
+  - Publication: arXiv 2026
+  - Highlights: Advances video world models from open-ended generation to open-world interaction.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.01614)
+
+- 🆕 **IOI: Decoupling Kinematics and Physics for Interactive World Models**
+  - Publication: arXiv 2026
+  - Highlights: Decouples kinematics and physics for interactive world models, achieving state-of-the-art simulation performance and robust zero-shot generalization to unseen OOD tasks.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.23296)
+
+- 🆕 **ω-EVA: Envision, Verify, and Act with Latent Interactive World Models**
+  - Publication: arXiv 2026
+  - Highlights: Latent interactive world models that envision, verify, and act.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.09457 )
+
+- 🆕 **ReWorld: An Interactive World Model with Long-Horizon Memory**
+  - Publication: arXiv 2026
+  - Highlights: An interactive world model with long-horizon memory.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.23565)
 
 - **Qwen-AgentWorld: Language World Models for General Agents**
   - Publication: arXiv 2026
@@ -850,10 +978,6 @@
   - Paper Link: [arXiv](https://arxiv.org/abs/2602.02393)
 
 ### 5.2 Game & Open-World Exploration (Application)
-
-*This section merges the original 5.2 and the removed 8.6, serving as the dedicated application subsection for interactive world models in gaming.*
-
-
 
 - **What if? Emulative Simulation with World Models for Situated Reasoning (WanderDream)**
   - Publication: arXiv 2026
@@ -945,7 +1069,15 @@
 
 ### 6.1 Cascaded WAM
 
+- 🆕 **WAMJET: A Harness for World Action Model Acceleration**
+  - Publication: arXiv 2026
+  - Highlights: A harness for accelerating world action models.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.03797)
 
+- 🆕 **DIDO: Distilling Interaction-Centric Dynamics into One-Step Denoising for World Action Models**
+  - Publication: arXiv 2026
+  - Highlights: Distills interaction-centric dynamics into one-step denoising for world action models.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2609.15570)
 
 - **Flash-WAM: Modality-Aware Distillation for World Action Models**
   - Publication: arXiv 2026
@@ -954,9 +1086,15 @@
 
 ### 6.2 Joint WAM & Unified VLA-World Models
 
-*This section merges the original 6.2 Joint WAM and the "Unifying" sub-section from the original 8.1.5. It focuses on paradigms that jointly model video generation, world state prediction, and action decision-making within a single architecture.*
+- 🆕 **Modality-Autoregressive World-Action Models**
+  - Publication: arXiv 2026
+  - Highlights: Modality-autoregressive world-action models.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2609.17524)
 
-
+- 🆕 **OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation**
+  - Publication: arXiv 2026
+  - Highlights: Object-addressable world action model for robust robot manipulation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2605.06481)
 
 - **Native Video-Action Pretraining for Generalizable Robot Control (LingBot-VA 2.0)**
   - Publication: arXiv 2026
@@ -1120,9 +1258,10 @@
 
 ### 6.3 World Models for VLA Training & Evaluation (Combining Paradigms)
 
-*This section merges the original 6.3 and the "Combining" sub-section from the original 8.1.5. It focuses on using world models as environments/simulators to assist in training, fine-tuning, or evaluating VLA policies (i.e., "world model as environment" rather than "world model as policy").*
-
-
+- 🆕 **WoVR: World Models as Reliable Simulators for Post-Training VLA Policies with RL**
+  - Publication: arXiv 2026
+  - Highlights: World models as reliable simulators for post-training VLA policies with reinforcement learning.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2602.13977)
 
 - **WEAVER: Better, Faster, Longer: An Effective World Model for Robotic Manipulation**
   - Publication: arXiv 2026
@@ -1200,7 +1339,20 @@
 
 ### 7.1 Classic Series
 
+- 🆕 **Amortized Low-Rank Adaptation for Model-Based Reinforcement Learning**
+  - Publication: arXiv 2026
+  - Highlights: World models let agents plan by predicting the consequences of their actions, but changes in the environment can make them inaccurate. This work addresses this via amortized low-rank adaptation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2609.12278)
 
+- 🆕 **Q-Learning With World Models**
+  - Publication: arXiv 2026
+  - Highlights: Off-policy reinforcement learning with world models for improved sample efficiency.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.17163)
+
+- 🆕 **Inverting the Bellman Equation: From Q-Values to World Models**
+  - Publication: arXiv 2026
+  - Highlights: Inverting the Bellman equation to derive world models from Q-values.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.21173)
 
 - **DreamerV4: Training Agents Inside of Scalable World Models**
   - Publication: arXiv 2025
@@ -1229,7 +1381,15 @@
 
 ### 7.2 Continuous Control
 
+- 🆕 **PAVXploreRL: Physical-Action-Visual World Model Reinforcement Learning with Action Exploration**
+  - Publication: arXiv 2026
+  - Highlights: A reinforcement learning framework built on a pretrained latent world model that explicitly optimizes PAV objectives through reward-driven training.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2607.16602)
 
+- 🆕 **World-Gymnast: Training Robots with Reinforcement Learning in a World Model**
+  - Publication: arXiv 2026
+  - Highlights: Training robots with reinforcement learning in a world model.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2602.02454)
 
 - **Scaling World-Model Reinforcement Learning Through Diffusion Policy Optimization**
   - Publication: arXiv 2026
@@ -1298,7 +1458,10 @@
 
 ### 7.3 Offline & Generalization
 
-
+- **Infinitesimal Operator World Models: Finite-Sample Guarantees for Offline Reinforcement Learning**
+  - Publication: arXiv 2025
+  - Highlights: Finite-sample guarantees for offline reinforcement learning using infinitesimal operator world models.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2511.10383)
 
 - **CoMap: Co-Evolving World Models and Agent Policies for LLM Agents**
   - Publication: arXiv 2026
@@ -1431,7 +1594,25 @@
 
 #### 8.1.1 Foundation Embodied World Models
 
+- 🆕 **Cross-Embodiment Robot Foundation World Models with Latent Actions**
+  - Publication: arXiv 2026
+  - Highlights: Cross-embodiment robot foundation world models with latent actions.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.10846)
 
+- 🆕 **DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**
+  - Publication: arXiv 2026
+  - Highlights: Action-conditioned video world model for robotic manipulation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.13489)
+
+- 🆕 **DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos**
+  - Publication: arXiv 2026
+  - Highlights: A generalist robot world model learned from large-scale human videos.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2602.06949)
+
+- **OSCAR: Omni-Embodiment Action-Conditioned World Model for Robotics**
+  - Publication: arXiv 2026
+  - Highlights: A precise action-conditioned video world model that generalizes across different robot embodiments and enables robot policy evaluation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.04463)
 
 - **Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model**
   - Publication: arXiv 2026
@@ -1466,7 +1647,20 @@
 
 #### 8.1.2 Manipulation
 
+- 🆕 **GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**
+  - Publication: arXiv 2026
+  - Highlights: A generalizable interactive world model for robotic manipulation via visual actions.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.06332)
 
+- 🆕 **Grounded-Dreamer: Robot Learning from World Model Synthetic Data with Physical Grounding**
+  - Publication: arXiv 2026
+  - Highlights: Robot learning from world model synthetic data with physical grounding.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.13164)
+
+- 🆕 **τ₀-WM: A Unified Video-Action World Model for Robotic Manipulation**
+  - Publication: arXiv 2026
+  - Highlights: Unified video-action world model for robotic manipulation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.01027)
 
 - **DriftWorld: Fast World Modeling through Drifting**
   - Publication: arXiv 2026
@@ -1820,7 +2014,20 @@
 
 #### 8.1.3 Navigation
 
+- 🆕 **GLAM: Training a latent world model over global spatiotemporal memory for active exploration and navigation**
+  - Publication: arXiv 2026
+  - Highlights: Trains a latent world model over global spatiotemporal memory for active exploration and navigation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2609.14561)
 
+- 🆕 **SC2-WM: A Self-Correcting World Model with Closed-Loop Feedback for Vision-and-Language Navigation in Continuous Environments**
+  - Publication: arXiv 2026
+  - Highlights: A self-correcting world model with closed-loop feedback for vision-and-language navigation in continuous environments.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.07548)
+
+- 🆕 **SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation**
+  - Publication: arXiv 2026
+  - Highlights: A streaming panoramic world model for language-guided navigation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.08941)
 
 - **EfficientNWM: An Efficient and Multi-Modal Navigation System with One-Step World Model**
   - Publication: arXiv 2026
@@ -1899,7 +2106,30 @@
 
 #### 8.1.4 Locomotion & Loco-Manipulation
 
+- 🆕 **World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain**
+  - Publication: arXiv 2026
+  - Highlights: World-model-augmented visual locomotion for humanoids on foothold-constrained terrain.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2609.02542)
 
+- 🆕 **ω-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**
+  - Publication: arXiv 2026
+  - Highlights: A latent predictive world action model for concurrent humanoid loco-manipulation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.06375)
+
+- 🆕 **DWMP: Leveraging Dual World Models for Humanoid Obstacle Traversal**
+  - Publication: arXiv 2026
+  - Highlights: Leveraging dual world models for humanoid obstacle traversal.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2609.12347)
+
+- 🆕 **GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction**
+  - Publication: arXiv 2026
+  - Highlights: A causal Transformer-based behavior world model enables robust humanoid whole-body control by predicting actions.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.18234)
+
+- 🆕 **AnyWorld: Factorized Egocentric World Models for Generalization Across Robots**
+  - Publication: arXiv 2026
+  - Highlights: Factorized egocentric world models for generalization across different robots.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2608.29242)
 
 - **Ego-VCP: Ego-Vision World Model for Humanoid Contact Planning**
   - Publication: arXiv 2025
@@ -1979,8 +2209,6 @@
 
 #### 8.1.5 World Models x Policy Learning
 
-*This section focuses on using world models for policy search, optimization, and policy representation learning (without joint VLA architectures).*
-
 - **LingBot-VA: Causal video-action world model for generalist robot control**
   - Publication: arXiv 2026
   - Highlights: Causal video-action world model for generalist robot control.
@@ -2054,10 +2282,6 @@
 
 #### 8.1.6 Policy Evaluation with World Models
 
-*This section focuses on using world models as evaluators/simulators to test policy robustness and performance.*
-
-
-
 - **SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation**
   - Publication: arXiv 2026
   - Highlights: Evaluates robot foundation models via self-consistent video generation.
@@ -2096,7 +2320,20 @@
 
 ### 8.2 Autonomous Driving
 
+- 🆕 **HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving**
+  - Publication: arXiv 2026
+  - Highlights: A hybrid world-VLA framework that unifies pixel-level supervision and latent representation learning, significantly outperforming both pixel-based and latent-based world model baselines.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2607.20988)
 
+- 🆕 **ZYT-World: A Real-Time Controllable World Model for Closed-Loop Autonomous-Driving Simulation**
+  - Publication: arXiv 2026
+  - Highlights: A real-time controllable world model for closed-loop autonomous-driving simulation.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2609.21712)
+
+- 🆕 **GraphWorld: Long-Horizon Planning with World Models for End-to-End Autonomous Driving**
+  - Publication: arXiv 2026
+  - Highlights: Long-horizon planning with world models for end-to-end autonomous driving.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.16274)
 
 - **M⁴World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming**
   - Publication: arXiv 2026
@@ -2623,7 +2860,15 @@
 
 ### 8.3 GUI / Computer-Use Agents
 
+- 🆕 **Code2World: A GUI World Model via Renderable Code Generation**
+  - Publication: arXiv 2026
+  - Highlights: Models GUI dynamics by generating renderable code for the next interface state rather than directly predicting pixels.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2602.09856)
 
+- 🆕 **Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents**
+  - Publication: arXiv 2026
+  - Highlights: Uses world models as verifiers for GUI agents to detect transition errors.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.11942)
 
 - **WebWorld: A Large-Scale World Model for Web Agent Training**
   - Publication: arXiv 2026
@@ -2724,7 +2969,20 @@
 
 ### 8.4 Scientific Discovery
 
+- 🆕 **From Observation to Insight: Mechanistic World Models and the Quest for Autonomous Discovery**
+  - Publication: arXiv 2026
+  - Highlights: Proposes Mechanistic World Models as a conceptual foundation and computational blueprint for moving AI beyond predictive forecasting towards autonomous scientific discovery.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2607.12474)
 
+- 🆕 **Janus: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models**
+  - Publication: arXiv 2026
+  - Highlights: Enhances long-horizon autonomous research with co-evolving world models.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.13194)
+
+- 🆕 **Language Models as AI Research World Models**
+  - Publication: arXiv 2026
+  - Highlights: Explores language models as AI research world models.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.12235)
 
 - **MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation**
   - Publication: arXiv 2026
@@ -2776,8 +3034,6 @@
 
 ### 8.5 Social & Economic Simulation
 
-
-
 - **Social World Models**
   - Publication: arXiv 2025
   - Highlights: Social world models.
@@ -2804,6 +3060,14 @@
 
 | Dataset/Benchmark Name | Year | Scale | Core Tasks | Link |
 |---|---|---|---|---|
+| 🆕 **WorldRoamBench** | 2026 | — | Open-world benchmark for long-horizon stability of interactive world models | [arXiv](https://arxiv.org/pdf/2606.31672) |
+| 🆕 **PlayWorld** | 2026 | 171 scenarios | Benchmarking world models with agent players over long-horizon objectives | [arXiv](https://arxiv.org/pdf/2608.13552) |
+| 🆕 **WorldPrediction** | 2026 | — | High-level world modeling and long-horizon procedural planning | [arXiv](https://arxiv.org/pdf/2506.04363) |
+| 🆕 **GigaWorld-1** | 2026 | — | Roadmap to build world models for robot policy evaluation | [arXiv](https://arxiv.org/abs/2607.02642) |
+| 🆕 **PAWBench** | 2026 | — | Probabilistically aligned world modeling benchmark | [arXiv](https://arxiv.org/pdf/2608.27345) |
+| 🆕 **Towards Safe World Models** | 2026 | — | Risks, defenses, and evaluation for safe world models | [arXiv](https://arxiv.org/abs/2610.13372) |
+| 🆕 **Trimming the Long-Tail of Visual World Modeling Evaluation** | 2026 | — | Visual world modeling evaluation | [arXiv](https://arxiv.org/pdf/2606.24256) |
+| 🆕 **PiL-World** | 2026 | — | Chunk-wise world model for VLA policy-in-the-loop evaluation | [arXiv](https://arxiv.org/pdf/2606.05773) |
 | **Omni-WorldBench** | 2026 | 18 representative world models | Comprehensive interaction-centric evaluation for 4D world models | [arXiv](https://arxiv.org/abs/2603.22212) |
 | **AgentWorldBench** | 2026 | 5 frontier models, 9 benchmarks | Comprehensive benchmark for language world models | [arXiv](https://arxiv.org/abs/2606.24597) |
 | **iWorld-Bench** | 2026 | 330k video clips, 4.9k test samples | Interactive world model evaluation | [arXiv](https://arxiv.org/abs/2605.03941) |
@@ -2828,12 +3092,12 @@
 
 | Dataset/Benchmark Name | Year | Scale | Core Tasks | Link |
 |---|---|---|---|---|
+| 🆕 **PhysEditWorld** | 2026 | — | Large-scale dataset toward physics-editable world models | [arXiv](https://arxiv.org/abs/2606.26694) |
 | **A Physics-Grounded Benchmark for Multi-Agent Dynamics in World Models** | 2026 | Multi-agent dynamics | Physics-grounded multi-agent dynamics benchmark | [arXiv](https://arxiv.org/abs/2606.28757) |
 | **CausalARC** | 2026 | Causal reasoning tasks | Abstract reasoning with causal world models | [arXiv](https://arxiv.org/pdf/2509.03636) |
 
 
 ### 9.3 Domain-Specific Benchmarks
-
 
 
 #### Robotics
@@ -2868,9 +3132,28 @@
 
 ### 10.1 Memory Mechanisms
 
+- 🆕 **Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory**
+  - Publication: arXiv 2026
+  - Highlights: Endows world models with understanding-driven long-term memory.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2610.02521)
 
+- 🆕 **Mem-World: Memory-Augmented Action-Conditioned World Models for Persistent Robot Manipulation**
+  - Publication: arXiv 2026
+  - Highlights: Memory-augmented action-conditioned world models for persistent robot manipulation, proposes W-VMem, a 4D wrist-centric surfel-indexed memory.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.18960)
+
+- 🆕 **Echo-Memory: A Controlled Study of Memory in Action World Models**
+  - Publication: arXiv 2026
+  - Highlights: A controlled study of memory mechanisms in action-conditioned world models.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2606.09803)
+
+- 🆕 **Flow-Equivariant World Models: Memory for Partially Observed Dynamic Environments**
+  - Publication: ICML 2026
+  - Highlights: FloWM maintains structured dynamic memory for partially observed dynamic environments.
+  - Paper Link: [arXiv](https://arxiv.org/abs/2601.01075)
 
 - **DiM-WAM: Diverse Historical Event Memory** (see WAM section)
+
 - **Current World Models Lack a Persistent State Core**
   - Publication: arXiv 2026
   - Highlights: Argues that generators must maintain a continuously evolving world state rather than rendering plausible frames only at observation time.
@@ -2918,8 +3201,6 @@
 
 ### 10.2 Post-Training & Test-Time Scaling
 
-
-
 - **RLVR-World: Training World Models with Reinforcement Learning**
   - Publication: arXiv 2025
   - Highlights: Trains world models with reinforcement learning.
@@ -2942,9 +3223,13 @@
 
 ### 10.3 Efficient & Real-Time Inference
 
-
+- 🆕 **WAMJET: A Harness for World Action Model Acceleration**
+  - Publication: arXiv 2026
+  - Highlights: A harness for accelerating world action models.
+  - Paper Link: [arXiv](https://arxiv.org/pdf/2610.03797)
 
 - **Flash-WAM: Modality-Aware Distillation for World Action Models** (see WAM)
+
 - **WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching**
   - Publication: arXiv 2026 (ICML 2026)
   - Highlights: Delivers up to 3.7× end-to-end speedups while maintaining 98% rollout quality. Accepted by ICML 2026.
